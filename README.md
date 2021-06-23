@@ -1,23 +1,19 @@
 # **Hey you, I'm Prestes**
 
- ## **Computer Science Student at UNIFAP**
-    - I like Artic Monkeys, tecnology and coffe.
+## **Computer Science Student**
+    - I like Artic Monkeys, technology and coffe.
+    
+## **You can find me on**
+[<img align="center"  width="50rem" src="https://image.flaticon.com/icons/png/128/1384/1384088.png"/>](https://www.linkedin.com/in/breno-prestes-0543591b8/)
 
-## **YOU CAN FIND ME ON**
-
-
-[<img align="center"  width="70rem" src="https://icons-for-free.com/iconfiles/png/512/linkedin+logo+logo+website+icon-1320190502911715717.png"/>](https://www.linkedin.com/in/breno-prestes-0543591b8/)
-
-[<img align="center" width= "70rem" src="https://image.flaticon.com/icons/png/512/281/281752.png"/>](mailto:bcaua205@gmail.com)
+[<img align="center" width= "50rem" src="https://image.flaticon.com/icons/png/512/281/281752.png"/>](mailto:bcaua205@gmail.com)
 
 
 ## **Technologies in expansion**
-<p float="left">
-<img align="center" width="50rem" display="flex" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img align="center" width="50rem" display="flex" src="https://img.icons8.com/color/2x/javascript.png"/>
-<img align="center" width="50rem" display="flex" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" width="50rem" display="flex" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+<img align="center" width="50rem" src="https://img-premium.flaticon.com/png/128/3524/premium/3524369.png?token=exp=1624416366~hmac=566df84998a13a8cf632f5dfc267a81f"/>
+<img align="center" width="50rem" src="https://image.flaticon.com/icons/png/128/136/136448.png"/>
+<img align="center" width="50rem" src="https://image.flaticon.com/icons/png/128/29/29104.png"/>
+<img align="center" width="50rem" src="https://image.flaticon.com/icons/png/128/29/29600.png"/>
 
 ## **Fun Fact:**
    - I like Açai without sugar
