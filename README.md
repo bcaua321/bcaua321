@@ -1,7 +1,7 @@
 # **Hey you, I'm Prestes**
 
  ## **Computer Science Student**
-    - I like Artic Monkeys, tecnology and coffe.
+    - I like Artic Monkeys, technology and coffe.
 
 ## **You can find me on**
 
