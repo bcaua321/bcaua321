@@ -1,16 +1,22 @@
 ### Hi there 👋
+# **Hey you, I'm Prestes**
 
-<!--
-**bcaua321/bcaua321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## **Computer Science Student**
+    - I like Artic Monkeys and Tecnology
 
-Here are some ideas to get you started:
+## **YOU CAN FIND ME ON**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img align="center"  width="70rem" src="https://icons-for-free.com/iconfiles/png/512/linkedin+logo+logo+website+icon-1320190502911715717.png"/>](https://www.linkedin.com/in/breno-prestes-0543591b8/)
+
+[<img align="center" width= "70rem" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:bcaua205@gmail.com)
+
+
+## **Technologies in expansion**
+<img align="center" width="10rem" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img align="center" width="10rem" src="https://img.icons8.com/color/2x/javascript.png"/>
+<img align="center" width="10rem" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" width="10rem" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+
+
