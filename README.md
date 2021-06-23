@@ -1,9 +1,9 @@
 # **Hey you, I'm Prestes**
 
- ## **Computer Science Student at UNIFAP**
+ ## **Computer Science Student**
     - I like Artic Monkeys, tecnology and coffe.
 
-## **YOU CAN FIND ME ON**
+## **You can find me on**
 
 
 [<img align="center"  width="50rem" src="https://image.flaticon.com/icons/png/128/1384/1384088.png"/>](https://www.linkedin.com/in/breno-prestes-0543591b8/)
