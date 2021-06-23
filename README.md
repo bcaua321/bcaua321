@@ -12,10 +12,10 @@
 
 
 ## **Technologies in expansion**
-<img align="center" width="50rem" display="flex" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img align="center" width="50rem" display="flex" src="https://img-premium.flaticon.com/png/128/3103/premium/3103956.png?token=exp=1624416184~hmac=228b95867895df5924338a8815094ad3"/>
 <img align="center" width="50rem" display="flex" src="https://img.icons8.com/color/2x/javascript.png"/>
-<img align="center" width="50rem" display="flex" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" width="50rem" display="flex" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="center" width="50rem" display="flex" src="https://image.flaticon.com/icons/png/128/29/29104.png"/>
+<img align="center" width="50rem" display="flex" src="https://image.flaticon.com/icons/png/128/29/29600.png"/>
 
 ## **Fun Fact:**
    - I like Açai without sugar
