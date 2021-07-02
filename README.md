@@ -11,7 +11,7 @@
 
 ## **Technologies in expansion**
 <p float="left">
-<img align="center" width="50rem" src="https://img-premium.flaticon.com/png/128/3524/premium/3524369.png?token=exp=1624416366~hmac=566df84998a13a8cf632f5dfc267a81f"/>
+<img align="center" width="50rem" src="https://image.flaticon.com/icons/png/128/3522/3522240.png"/>
 <img align="center" width="50rem" src="https://image.flaticon.com/icons/png/128/136/136448.png"/>
 <img align="center" width="50rem" src="https://image.flaticon.com/icons/png/128/29/29104.png"/>
 <img align="center" width="50rem" src="https://image.flaticon.com/icons/png/128/29/29600.png"/>
