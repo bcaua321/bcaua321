@@ -16,6 +16,6 @@
    - I like Açai without sugar
 
 
-   - “People think that computer science is the art of geniuses but the
+   <p>“People think that computer science is the art of geniuses but the
 actual reality is the opposite, just many people doing things that
-build on each other, like a wall of mini stones.”
+build on each other, like a wall of mini stones.”<p>
