@@ -11,7 +11,6 @@
     <img align="center" width="30rem" src="https://image.flaticon.com/icons/png/128/29/29600.png"/>
 </p>
 
-## **Fun Fact:**
    - I like Açai without sugar
 
 
