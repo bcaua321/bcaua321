@@ -15,7 +15,7 @@ build on each other, like a wall of mini stones.”<p>
     <img align="center" width="30rem" src="https://image.flaticon.com/icons/png/128/29/29600.png"/>
 </p>
 
-   - I like Açai without sugar
+
 
 
 
