@@ -7,13 +7,6 @@
 actual reality is the opposite, just many people doing things that
 build on each other, like a wall of mini stones.”<p>
 
-## **Technologies in expansion**
-<p float="left">
-    <img align="center" width="30rem" src="https://image.flaticon.com/icons/png/128/3522/3522240.png"/>
-    <img align="center" width="30rem" src="https://image.flaticon.com/icons/png/128/136/136448.png"/>
-    <img align="center" width="30rem" src="https://image.flaticon.com/icons/png/128/29/29104.png"/>
-    <img align="center" width="30rem" src="https://image.flaticon.com/icons/png/128/29/29600.png"/>
-</p>
 
 
 
